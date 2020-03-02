@@ -1,3 +1,3 @@
-class HPCharacters::CLI
+class HpCharacters::CLI
   
 end

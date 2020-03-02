@@ -1,4 +1,4 @@
-class HPCharacters::CLI
+class HpCharacters::CLI
   
   def start 
     puts "Hello"

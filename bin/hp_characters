@@ -2,4 +2,4 @@
 
 require_relative "../lib/hp_characters"
 
-HPCharacters::CLI.new.start
+HpCharacters::CLI.new.start
