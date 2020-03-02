@@ -1,6 +1,6 @@
-require "hp_characters/version"
+require 'nokogiri'
+require 'open-uri'
+require 'pry'
 
-module HpCharacters
-  class Error < StandardError; end
-  # Your code goes here...
-end
+require_relative "hp_characters/version"
+require_relative "hp_characters/cli"

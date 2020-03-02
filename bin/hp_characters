@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require_relative "../lib/hp_characters"
+
+HPCharacters::CLI.new.start
