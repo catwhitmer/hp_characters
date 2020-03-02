@@ -38,7 +38,7 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 2.0"
   spec.add_development_dependency "rake", "~> 12.3"
-  spec.add_development_dependency "nokogir"
-  spec.add_development_dependency "open-uri"
+  spec.add_development_dependency "nokogiri"
+  spec.add_development_dependency 'open-uri'
   spec.add_development_dependency "pry"
 end

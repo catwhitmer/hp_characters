@@ -1,0 +1,3 @@
+class HPCharacters::CLI
+  
+end
