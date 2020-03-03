@@ -1,3 +1,5 @@
 class HpCharacters::CLI
   
+  
+  
 end
